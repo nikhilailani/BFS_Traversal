@@ -7,14 +7,19 @@ Example: A, B, C, D, E, F are the nodes of the graph.
 
 
 For example, you are given following data: 
-'''
+
+```
 Data = {'A': {'B'},
         'B': {'A', 'C', 'D'},
         'C': {'B', 'E'},
         'D': {'B', 'E'},
         'E': {'C', 'D', 'F'},
         'F': {'E'}}
-'''
+```
+
+the resultant graph will be :-
+
+![alt text]https://github.com/nikhilailani/BFS_Traversal/blob/main/DFS_BFS_Graph.png
 
 
 **Explanation:** Here, selecting A as source node and D as destination node, the values are passed to the function.
