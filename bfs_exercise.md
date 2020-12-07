@@ -31,5 +31,7 @@ Path exists!
 Path : A->B->D
 '''
 
+[Solution](https://github.com/nikhilailani/BFS_Traversal/blob/main/bfs_exercise_solution.py)
+
 
 
