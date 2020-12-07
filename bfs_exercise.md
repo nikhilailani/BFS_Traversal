@@ -19,7 +19,7 @@ Data = {'A': {'B'},
 
 the resultant graph will be :-
 
-![alt text]https://github.com/nikhilailani/BFS_Traversal/blob/main/DFS_BFS_Graph.png
+![alt text](https://github.com/nikhilailani/BFS_Traversal/blob/main/DFS_BFS_Graph.png)
 
 
 **Explanation:** Here, selecting A as source node and D as destination node, the values are passed to the function.
